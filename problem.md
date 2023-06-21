@@ -10,7 +10,7 @@ how many possible locations our tank could be set up. Help her find this.
 ### Input
 The first line contains a single integer $N, (1 \le N \le 10^6)$ - the number of tents. 
 
-The next $N$ lines contain coordinates of the tents.
+The next $N$ lines contain the coordinates of the tents.
 
 $i^{th}$ line contain two integers $X_i$ and $Y_i$ $(1 \le X_i, Y_i \le 10^9)$ separated by a space - coordinates of $i^{th}$ tent.
 <hr/>
