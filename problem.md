@@ -1,10 +1,10 @@
 ## Sukriti's Dillema
 
-On the festival of Sangam, tents are being put on a field. We can consider this field as a grid. Location of a tent is defined by its $X$ and $Y$ coordinate. In total, there are N tents.
-Multiple tents can be set at a single box on this grid. Also, tank and tents could be on same location. We have to set up a water tank which is nearest to all the tents. By nearest we mean, sum of distances of this tank with all the tents
+On the festival of Sangam, tents are being put on a field. We can consider this field as a grid. The location of a tent is defined by its $X$ and $Y$ coordinates. In total, there are N tents.
+Multiple tents can be set in a single box on this grid. Also, tanks and tents could be in the same location. We have to set up a water tank which is nearest to all the tents. By nearest, we mean the sum of distances of this tank with all the tents
 should be minimum. In our system, distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ is defined as $|x_1-x_2| + |y_1 - y_2|$. Now, we can have multiple choices to place this water tank. 
 Sukriti (the coordinator of the event) is wondering 
-that on how many possible locations, our tank could be set up. Help her find this.
+how many possible locations our tank could be set up. Help her find this.
 <hr/>
 
 ### Input
